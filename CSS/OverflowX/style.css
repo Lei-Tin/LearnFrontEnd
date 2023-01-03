@@ -1,0 +1,34 @@
+.main h2 {
+    overflow-x: auto;
+}
+
+/* Do not edit the code below */
+.main {
+    width: 30vw;
+    border: 1px solid #68686B;
+    margin-left: 35vw;
+}
+
+.main p {
+    color: #68686B;
+}
+
+.main h2 {
+    white-space: nowrap;
+}
+
+.img-container {
+    width: 30vw;
+    height: 10vw;
+    background: url('https://i.ibb.co/gZ01Sbg/annual.png');
+    background-size: cover;
+}
+
+.content-container {
+    padding: 1.8em;
+}
+
+.meta {
+    margin-top: 1em;
+    font-size: 0.8em;
+}
