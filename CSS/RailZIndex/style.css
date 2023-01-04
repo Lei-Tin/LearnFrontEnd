@@ -1,0 +1,33 @@
+.sleeper {
+    background-color: rgba(46, 24, 24, 0.924);
+    width: 15px;
+    position: relative;
+    height: 80px;
+    margin: 0 10px;
+    /* Only change code below this line */
+    z-index: 0;
+    /* Only change code above this line */
+}
+
+.steel-rail {
+    background-color: rgb(112, 112, 112);
+    position: absolute;
+    width: 225px;
+    height: 15px;
+    margin: 6px 10px;
+    z-index: 1;
+}
+
+.grass {
+    background-color: rgb(17, 82, 17);
+    padding: 20px;
+    width: 25%;
+}
+
+.sleeper-container {
+    display: flex;
+}
+
+.steel-rail-container div:last-child {
+    top: 80px;
+}
