@@ -7,4 +7,6 @@ Study Plan: Frontend Core
 
 # Project: To-Do List
 
-In progress.
+Project completed, linked below: 
+
+https://github.com/Lei-Tin/ToDoList
